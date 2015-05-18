@@ -1,19 +1,6 @@
-#Documentación
+# Administración del servidores
 
-**Indice**
-
-*Instalación
-```
-apt-get install git
-```
-*Configuración
- ```
- mkdir proyectos
- ```
-
- ```
- git init
- ```
- 
+*[Particionamiento HD] (particionamiento.md)
+*[Virtualización] (virtualizacion.md)
 
 
